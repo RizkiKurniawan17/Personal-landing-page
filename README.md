@@ -1,5 +1,19 @@
-# Vue 3 + Vite
+Personal Website - Rizki Kurniawan
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Ini adalah proyek personal website saya yang dibuat menggunakan **Vue.js**, **Vite**, dan **Tailwind CSS**. Desainnya bergaya one-page dengan navigasi sidebar, animasi scroll, dark theme, dan informasi pribadi serta skill saya.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+- [Vue.js 3](https://vuejs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- HTML & JavaScript
+
+ Fitur
+
+- Sidebar navigasi di sisi kiri
+- Scroll animation 
+- Section: Hero, About Me, Skills, Project Tools, Contact
+
+1. Clone repo:
+```bash
+git clone https://github.com/RizkiKurniawan17/Personal-landing-page
+
