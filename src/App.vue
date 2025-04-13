@@ -44,11 +44,11 @@ onMounted(() => {
 })
 // Deklarasi untuk isi section project
 const tools = [
-  { name: 'Vite', src: '/public/vite.svg', glowColor: '#facc15', link: 'https://vitejs.dev/'},
-  { name: 'Vue', src: '/public/vue.svg', glowColor: '#42b883', link: 'https://vuejs.org/'},
-  { name: 'Tailwind', src: '/public/tailwindcss-icon.svg', glowColor: '#38bdf8', link: 'https://tailwindcss.com/'},
-  { name: 'Node.js', src: '/public/nodejs-icon.svg', glowColor: '#68a063',  link: 'https://nodejs.org/'},
-  { name: 'Git', src: '/public/git-scm-icon.svg', glowColor: '#f1502f', link: 'https://git-scm.com/'}
+  { name: 'Vite', src: '/vite.svg', glowColor: '#facc15', link: 'https://vitejs.dev/'},
+  { name: 'Vue', src: '/vue.svg', glowColor: '#42b883', link: 'https://vuejs.org/'},
+  { name: 'Tailwind', src: '/tailwindcss-icon.svg', glowColor: '#38bdf8', link: 'https://tailwindcss.com/'},
+  { name: 'Node.js', src: '/nodejs-icon.svg', glowColor: '#68a063',  link: 'https://nodejs.org/'},
+  { name: 'Git', src: '/git-scm-icon.svg', glowColor: '#f1502f', link: 'https://git-scm.com/'}
 ]
 // Animasi masuk untuk semua section kecuali skill
 onMounted(() => {
