@@ -4,7 +4,7 @@ import { ref, onMounted } from 'vue';
 // untuk menghubungkan sebagai navigasi per section 
 const section = [`Hero`, 'about', 'skill', 'project', 'contact']
 const activeSection = ref('Hero')
-
+// observer yang bakal memantau satu atau lebih elemen DOM
 onMounted(() => {
   const observer = new IntersectionObserver(
     (entries) => {
