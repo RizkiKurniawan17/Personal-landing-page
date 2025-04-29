@@ -13,7 +13,7 @@ Ini adalah proyek personal website saya yang dibuat menggunakan **Vue.js**, **Vi
 - Scroll animation 
 - Section: Hero, About Me, Skills, Project Tools, Contact
 
-1. Clone repo:
+Clone repo
 ```bash
 git clone https://github.com/RizkiKurniawan17/Personal-landing-page
 
